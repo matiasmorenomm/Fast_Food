@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Fast Food</string>
+    <string name="sandwiches">SANDWICHES</string>
+    <string name="sobre_nosotros">SOBRE NOSOTROS</string>
+    <string name="txt_sobre_nosotros">SOMOS UNA EMPRESA DE LA REGION CON MAS DE 10 AÑOS DE EXPERIENCIA REALIZANDO SANDWICHES! LOS MEJORES DE LA ZONA, SI NO CHORREA NO ES FAST FOOD</string>
+
+    <string name="btn_completo">COMPLETO</string>
+    <string name="des_completo">pan y vienesa, acompañados de tomate, salsa americana, chucrut y mayonesa para un completo, o palta, tomate y mayonesa para un italiano, las versiones más populares de este sencillo pero delicioso sándwich</string>
+    <string name="pre_completo">PRECIO: $1000</string>
+    <string name="title_completo">Detalle Sandwich Completo</string>
+
+    <string name="btn_chacarero">SANDWICH CHACARERO</string>
+    <string name="des_chacarero">el delicioso sándwich chileno compuesto de carne de vacuno, porotos verdes, rodajas de tomate y ají verde</string>
+    <string name="pre_chacarero">PRECIO: $4000</string>
+    <string name="title_chacarero">Detalle Sandwich Chacarero</string>
+
+    <string name="btn_barros_luco">SANDWICH BARROS LUCO</string>
+    <string name="des_barros_luco">es un emparedado que lleva carne a la plancha y queso caliente</string>
+    <string name="pre_barros_luco">PRECIO: $3500</string>
+    <string name="title_barros_luco">Detalle Sandwich Barros Luco</string>
+
+    <string name="btn_barros_jarpa">SANDWICH BARROS JARPA</string>
+    <string name="des_barros_jarpa">Queso, jamón york, pan y pipo. El Barros Jarpa es un sándwich de queso fundido y jamón caliente</string>
+    <string name="pre_barros_jarpa">PRECIO: $1500</string>
+    <string name="title_barros_jarpa">Detalle Sandwich Barros Jarpa</string>
+
+    <string name="btn_lomito">SANDWICH LOMITO</string>
+    <string name="des_lomito">Tiernas lonjas de lomo de cerdo fileteadas y bien cocidas son cubiertas por chucrut, coronadas por frescas rodajas de tomate y rodeadas de pan</string>
+    <string name="pre_lomito">PRECIO: $2500</string>
+    <string name="title_lomito">Detalle Sandwich Lomito</string>
+
+
+</resources>
