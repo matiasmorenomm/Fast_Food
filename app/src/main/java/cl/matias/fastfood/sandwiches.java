@@ -11,11 +11,12 @@ import java.util.ArrayList;
 import android.view.View;
 import android.widget.Button;
 import android.widget.LinearLayout;
+import android.widget.TextView;
 
 public class sandwiches extends AppCompatActivity {
 
     LinearLayout contenedor;
-    Intent intent;
+
 
     @SuppressLint("ResourceAsColor")
     @Override
