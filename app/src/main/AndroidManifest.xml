@@ -11,7 +11,7 @@
         android:theme="@style/AppTheme">
         <activity
             android:name=".detalles"
-            android:parentActivityName=".MainActivity"/>
+            android:parentActivityName=".sandwiches"/>
         <activity
             android:name=".sandwiches"
             android:parentActivityName=".MainActivity" />
